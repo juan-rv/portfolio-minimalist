@@ -1,0 +1,41 @@
+.home h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 55px;
+    margin-bottom: 0px ;
+    margin-top: 80px;
+}
+
+.home strong {
+    color:#fa4529
+}
+
+.home h2 {
+    color: rgb(98,97,97);
+    font-weight: lighter;
+}
+
+.home a {
+    background-color: #fa4529;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 300ms ;
+}
+
+.home a:hover {
+    background-color: rgb(26, 137, 26);
+}
+
+.home .heading {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 0px;
+}
+
+.home p {
+    color: rgb(98,97,97)
+}

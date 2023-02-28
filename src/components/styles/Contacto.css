@@ -1,0 +1,35 @@
+.page .heading {
+    font-size: 55px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+input[type="text"],
+textarea{
+    display: block;
+    padding: 15px;
+    margin-top: 25px;
+    width: 250px;
+}
+
+
+.page .but {
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 15px;
+    border:0px;
+    border-radius:5px;
+    color:white;
+    background-color: #fa4529;
+    text-decoration: none;
+    transition: all 300ms;
+    cursor: pointer;
+}
+
+.page .but:hover {
+    background-color: #da6553;
+
+}
